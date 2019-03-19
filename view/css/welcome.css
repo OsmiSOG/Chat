@@ -1,5 +1,8 @@
 body{
-  background-color: rgba(29, 153, 153, 0.05);
+  background-image: url("../archivos/splash-1763305_1280.png");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 100% 600%;
 }
 .content{
   display: flex;
@@ -23,7 +26,7 @@ body{
   top: 30%;
 }
 
-#button{
+.button{
   cursor: pointer;
   width: 30%;
   height: 100%;
