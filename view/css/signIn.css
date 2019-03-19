@@ -1,0 +1,28 @@
+body{
+  background-image: url("../archivos/avatar-2191932_1920.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: top;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+.title-signin{
+  text-align: center;
+
+}
+
+.body-signin{
+  padding-top: 20%;
+}
+
+.form{
+  display: grid;
+}
+
+#button{
+  cursor: pointer;
+  margin-top: 10%;
+}

@@ -23,15 +23,9 @@ body{
   top: 30%;
 }
 
-#buttonSignIn{
+#button{
   cursor: pointer;
   width: 30%;
   height: 100%;
 
-}
-
-#buttonSignUp{
-  cursor: pointer;
-  width: 30%;
-  height: 100%;
 }
